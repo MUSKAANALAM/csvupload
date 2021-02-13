@@ -5,8 +5,11 @@ MongoDb imports data in CSV, JSON format.
 
 To start the project:
 
- npm install
- node app.js is the starting point.
+ 1.npm install to install dependencies
+ 
+ 
+ 
+2. node app.js is the starting point.
 
 
 the url here is:
